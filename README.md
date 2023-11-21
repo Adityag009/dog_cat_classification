@@ -1,6 +1,4 @@
-# dog_cat_classification
-
-# Image Classification Project
+# Dog_cat_classification Project
 
 ## Overview
 This repository contains the Jupyter notebook and associated files for an image classification project. The project demonstrates the process of building and training a machine learning model to classify images.
